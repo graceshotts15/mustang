@@ -1,0 +1,20 @@
+{
+	"firstName":"Grace",
+	"lastName":"Shotts",
+	"preferredName":"Grace",
+	"email":"gracenshotts@lewisu.edu",
+	"phoneNumber":"630-596-3002",
+	"seatNumber":"15",
+    "favoriteShow": "Grey's Anatomy",
+	"inPerson":[
+		"Monday",
+		"Wednesday"
+	],
+	"virtual":[
+		"Friday"
+	],
+	"city":"Bolingbrook",
+	"state":"IL",
+	"zip":"60440",
+	"favoriteHobby":"Video Games"
+}

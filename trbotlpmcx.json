@@ -1,0 +1,23 @@
+{
+	"firstName":"Olaf",
+	"lastName":"The Snowman",
+	"preferredName":"Olaf",
+	"email":"olaflovessummer@disney.com",
+	"phoneNumber":"800-255-olaf",
+	"city":"Arendelle",
+	"Country":"Norway",
+	"favoriteHobby":"Talking",
+	"class":"cpsc-24700-001",
+	"room":"AS-104-A",
+	"startTime":"3pm CT",
+	"seatNumber":"03",
+    "favoriteSeason":"Summer",
+	"inPerson":[
+	],
+	"virtual":[
+		"Monday",
+		"Wednesday",
+		"Friday"
+	],
+	"favoriteSport": "Dancing"
+}

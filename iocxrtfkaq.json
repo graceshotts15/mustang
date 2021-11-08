@@ -1,0 +1,23 @@
+{
+	"firstName":"Oliver",
+	"lastName":"Queen",
+	"preferredName":"Green Arrow",
+	"email":"thearrow@lewisu.edu",
+	"phoneNumber":"800--gre-arro",
+	"city":"Star City",
+	"state":"WA",
+	"zip":"12058",
+	"favoriteHobby":"Shooting Arrows",
+	"class":"cpsc-24700-001",
+	"room":"AS-104-A",
+	"startTime":"3pm CT",
+	"seatNumber":"8",
+    "favortieSibling": "Thea Queen",
+	"inPerson":[
+	],
+	"virtual":[
+		"Monday",
+		"Wednesday",
+		"Friday"
+	]
+}
